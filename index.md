@@ -2,7 +2,9 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+안녕하세요. 테스트를 위해 임시로 개설된 깃허브 블로그입니다. 방문해주셔서 감사합니다. 
+
+//Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
