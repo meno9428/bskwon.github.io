@@ -5,7 +5,8 @@ layout: default
 ---
 
 안녕하세요. 테스트를 위해 임시로 개설된 깃허브 블로그입니다. 방문해주셔서 감사합니다. 해당 페이지의 링크는 실제로 동작하지 않습니다. 
-[마크다운 언어 가이드 링크](https://gist.github.com/ihoneymon/652be052a0727ad59601)
+
+* [마크다운 언어 가이드 링크](https://gist.github.com/ihoneymon/652be052a0727ad59601)
 
 # 페이지 소개
 
@@ -18,7 +19,7 @@ layout: default
 ## 길찾기 알고리즘
 2D 혹은 3D Path Planning 을 위한 알고리즘 및 그 논문들에 대해 다룹니다. 일부는 Implementation 단계까지 갈 수도 있고, 아이디어에 대한 소개로 끝마쳐질수도 있습니다. 
 
-* [길찾기 알고리즘](./docs/CONTRIBUTING.html).
+* [길찾기 알고리즘](./docs/CONTRIBUTING.html)
 
 ## 이산사건 시뮬레이션
 준비중 입니다.
