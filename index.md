@@ -17,7 +17,8 @@ layout: default
 
 ## 길찾기 알고리즘
 2D 혹은 3D Path Planning 을 위한 알고리즘 및 그 논문들에 대해 다룹니다. 일부는 Implementation 단계까지 갈 수도 있고, 아이디어에 대한 소개로 끝마쳐질수도 있습니다. 
-[길찾기 알고리즘](./docs/CONTRIBUTING.html).
+
+* [길찾기 알고리즘](./docs/CONTRIBUTING.html).
 
 ## 이산사건 시뮬레이션
 준비중 입니다.
