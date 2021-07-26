@@ -6,7 +6,7 @@ layout: default
 
 //Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./docs/CONTRIBUTING.md).
+[Link to another page](./docs/CONTRIBUTING.html).
 
 There should be whitespace between paragraphs.
 
